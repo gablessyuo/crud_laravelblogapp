@@ -57,7 +57,7 @@
 
 <div class="container">
     <h1>My Blog Posts</h1>
-    <p>Welcome to my personal blog. Share your thoughts and stories.</p>
+    <p>Welcome to my blog.</p>
 
     <a class="create-btn" href="{{ route('posts.create') }}">+ Create New Post</a>
 
